@@ -3,10 +3,9 @@
 This project demonstrates the basics of web page development using HTML. It includes two HTML files that display an image and create a clickable hyperlink to an external website.
 
 ## 2. Project Files
-| File             | Description                                  
+                           
 | `first1.html`    | Displays an image with a heading.            
 | `first2.html`    | Displays an image and an external hyperlink. 
-
 | `img_chania.jpg` | Image used in both HTML pages.               
 
 ## 3. Technologies Used
